@@ -34,3 +34,15 @@ To clean, enrich, and analyze demographic data for Satara district (1991), gener
 
 ## 🗂️ Project Structure
 
+satara_etl_project/
+│
+├── data/
+│ └── SATARA_1991.csv
+│
+├── output/
+│ ├── SATARA_1991_enriched.csv
+│ └── SATARA_1991_enriched.parquet
+│
+├── SATARA_1991_ETL.ipynb ← main ETL notebook
+├── requirements.txt
+└── README.md
