@@ -1,7 +1,7 @@
 # Satara-ETL-Data-pipeline
 Data Engineering project demonstrating Extract–Transform–Load (ETL) workflow with Pandas and Parquet outputs.
 
-# 🧱 SATARA 1991 ETL Data Pipeline (Jupyter Notebook)
+# SATARA 1991 ETL Data Pipeline (Jupyter Notebook)
 
 This project demonstrates a **complete ETL (Extract → Transform → Load)** pipeline using **Python and Jupyter Notebook** for the 1991 Satara district dataset.
 
@@ -9,18 +9,18 @@ It follows a structured approach commonly used by **Data Engineers** for data in
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 **Goal:**  
 To clean, enrich, and analyze demographic data for Satara district (1991), generating insights such as:
-- ✅ Literacy rate  
-- ✅ Sex ratio (Females per 1000 Males)  
-- ✅ CSV and Parquet output formats  
-- ✅ Visualized distributions for insights  
+- Literacy rate  
+- Sex ratio (Females per 1000 Males)  
+- CSV and Parquet output formats  
+- Visualized distributions for insights  
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 | Component | Technology |
 |------------|-------------|
@@ -32,7 +32,7 @@ To clean, enrich, and analyze demographic data for Satara district (1991), gener
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 satara_etl_project/
 │
